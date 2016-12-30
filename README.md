@@ -1,1 +1,2 @@
-# memos
+# memos　
+See Wiki
